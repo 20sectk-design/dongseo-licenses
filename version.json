@@ -1,5 +1,6 @@
 {
   "version": "3.6",
   "installer_url": "",
-  "license_required": true
+  "license_required": true,
+  "global_active": true
 }
