@@ -3,6 +3,6 @@
   "issued": "2026-03-16",
   "expires": "2027-03-16",
   "customer": "동서대개발",
-  "active": true,
-  "sig": "e26851403851cfd291558b205415042e1c2181976b1abf11b074e91766a3bafe"
+  "active": false,
+  "sig": "02681f2487c21963d0a4a3d133da4be2b1cfa838035f1d6c99bb93edbcc3ced4"
 }
