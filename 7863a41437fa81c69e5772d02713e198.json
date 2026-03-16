@@ -1,7 +1,8 @@
 {
   "hw_id": "7863a41437fa81c69e5772d02713e198",
-  "issued": "2026-03-13",
-  "expires": "2026-03-13",
-  "customer": "동서대학교(테스트)",
-  "sig": "09a80820ee4bc483cac255d581eb21ae8d5b8654eb072b2a203d4ff58e3051ec"
+  "issued": "2026-03-16",
+  "expires": "2027-03-16",
+  "customer": "동서대학교",
+  "active": true,
+  "sig": "d83f3a9eb1bb40592d5dd081bfaa441bb808cc661af5f0cb7a3e4157262d35a9"
 }
