@@ -1,5 +1,5 @@
 {
-  "version": "3.4",
+  "version": "3.6",
   "installer_url": "",
-  "license_required": false
+  "license_required": true
 }
