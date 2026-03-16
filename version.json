@@ -2,5 +2,6 @@
   "version": "3.6",
   "installer_url": "",
   "license_required": true,
-  "global_active": true
+  "global_active": true,
+  "auto_issue": true
 }
